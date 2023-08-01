@@ -10,7 +10,7 @@ The repository supports both 2D and 3D images, allowing for the generation of he
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/heatmap-generator.git
+    git clone https://github.com/The-D-lab/heatmap-generator.git
     ```
 
 2. Navigate into the cloned directory:
